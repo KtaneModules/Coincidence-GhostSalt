@@ -1,0 +1,10 @@
+{
+  "name": "GSCoincidence-Editor",
+  "references": [
+    "GSCoincidence"
+  ],
+  "includePlatforms": [
+    "Editor"
+  ],
+  "excludePlatforms": []
+}
